@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="b9b1e7152f752010bcbbad2ef699b600" sys_domain="global" table="x_570198_uni_esame" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-18 16:49:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>79b1e7152f752010bcbbad2ef699b603</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_570198_uni_esame" name="x_570198_uni_esame" sys_domain="global" view="Default view">b9b1e7152f752010bcbbad2ef699b600</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_570198_uni_esame" sys_domain="global" view="Default view">f620a7d12f752010bcbbad2ef699b61f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-18 16:49:13</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-18 16:49:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>75b1e7152f752010bcbbad2ef699b604</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_570198_uni_esame" name="x_570198_uni_esame" sys_domain="global" view="Default view">b9b1e7152f752010bcbbad2ef699b600</sys_ui_form>
+            <sys_ui_section caption="Giudizio e voto finale" display_value="Giudizio e voto finale" name="x_570198_uni_esame" sys_domain="global" view="Default view">79b1a7152f752010bcbbad2ef699b6ff</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-18 16:49:13</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_570198_uni_esame</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-18 16:49:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b9b1e7152f752010bcbbad2ef699b600</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_570198_uni_esame</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Uni" source="x_570198_uni">df0f139d2f352010bcbbad2ef699b6d8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Uni">df0f139d2f352010bcbbad2ef699b6d8</sys_scope>
+            <sys_update_name>sys_ui_form_sections_b9b1e7152f752010bcbbad2ef699b600</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-18 16:49:13</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

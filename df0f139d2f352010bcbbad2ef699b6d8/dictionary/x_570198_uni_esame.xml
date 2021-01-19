@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Esame" max_length="40" name="x_570198_uni_esame" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Domande di esame" max_length="1000" name="domande_di_esame" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Esame" max_length="40" name="esame" type="string"/>
+        <element label="Matricola" max_length="15" name="matricola" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Studente" max_length="40" name="studente" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="scritto" label="Tipo di esame" max_length="40" name="tipo_di_esame" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Entrambi" value="entrambi"/>
+                <element inactive_on_update="false" label="Orale" value="orale"/>
+                <element inactive_on_update="false" label="Scritto" value="scritto"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="New Calendar Date/Time" max_length="40" name="u_calendar_date_time_1" type="calendar_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Nome Prof." mandatory="true" max_length="40" name="u_string_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Giudizio e considerazioni del Prof" mandatory="true" max_length="100" name="u_string_3" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Voto finale" max_length="40" name="u_voto" type="string">
+            <choice>
+                <element inactive_on_update="false" label="18" sequence="0" value="18"/>
+                <element inactive_on_update="false" label="19" sequence="1" value="19"/>
+                <element inactive_on_update="false" label="20" sequence="2" value="20"/>
+                <element inactive_on_update="false" label="21" sequence="3" value="21"/>
+                <element inactive_on_update="false" label="22" sequence="4" value="22"/>
+                <element inactive_on_update="false" label="23" sequence="5" value="23"/>
+                <element inactive_on_update="false" label="24" sequence="6" value="24"/>
+                <element inactive_on_update="false" label="25" sequence="7" value="25"/>
+                <element inactive_on_update="false" label="26" sequence="8" value="26"/>
+                <element inactive_on_update="false" label="27" sequence="9" value="27"/>
+                <element inactive_on_update="false" label="28" sequence="10" value="28"/>
+                <element inactive_on_update="false" label="29" sequence="11" value="29"/>
+                <element inactive_on_update="false" label="30" sequence="12" value="30"/>
+                <element inactive_on_update="false" label="Lode" sequence="13" value="lode"/>
+                <element inactive_on_update="false" label="Non superato" sequence="14" value="non superato"/>
+            </choice>
+        </element>
+    </element>
+</database>

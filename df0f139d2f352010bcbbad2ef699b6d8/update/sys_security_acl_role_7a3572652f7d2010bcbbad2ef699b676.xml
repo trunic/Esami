@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-19 08:13:20</sys_created_on>
+        <sys_id>7a3572652f7d2010bcbbad2ef699b676</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_570198_uni_studente.x_570198_uni.studente_user</sys_name>
+        <sys_package display_value="Uni" source="x_570198_uni">df0f139d2f352010bcbbad2ef699b6d8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Uni">df0f139d2f352010bcbbad2ef699b6d8</sys_scope>
+        <sys_security_acl display_value="x_570198_uni_studente">fa3572652f7d2010bcbbad2ef699b673</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_7a3572652f7d2010bcbbad2ef699b676</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-19 08:13:20</sys_updated_on>
+        <sys_user_role display_value="x_570198_uni.studente_user" name="x_570198_uni.studente_user">2a35fa252f7d2010bcbbad2ef699b605</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

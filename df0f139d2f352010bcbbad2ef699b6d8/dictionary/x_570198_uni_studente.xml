@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Studente" max_length="40" name="x_570198_uni_studente" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="descrizione" mandatory="true" max_length="40" name="u_descrizione" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Esame" mandatory="true" max_length="10" name="u_esame" type="string"/>
+    </element>
+</database>
